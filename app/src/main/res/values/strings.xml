@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">study android</string>
+    <string name="hello_happyworld">ハッピーラッキースマイルイェーイ！</string>
+    <string name="tap_here">ここをタップ！</string>
+</resources>
